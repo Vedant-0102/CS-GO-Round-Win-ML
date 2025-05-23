@@ -59,6 +59,14 @@ Result
 
 Epoch 17 Achieved best Results
 
+
+4- XG Boost
+
+Result
+### XG Boost:
+![XG Boost](https://github.com/user-attachments/assets/8085e806-5f66-462d-bf11-e60c2f2993dc)
+
+
 ![.](https://github.com/user-attachments/assets/f0f81200-f542-475b-b697-e1bc1a64cdc1)
 
 ## Usage
