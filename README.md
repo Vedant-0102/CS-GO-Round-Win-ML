@@ -59,7 +59,7 @@ Result
 
 Epoch 17 Achieved best Results
 
-
+![.](https://github.com/user-attachments/assets/f0f81200-f542-475b-b697-e1bc1a64cdc1)
 
 ## Usage
 
