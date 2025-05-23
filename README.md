@@ -32,40 +32,28 @@ pip install pandas numpy matplotlib seaborn tensorflow requests scikit-learn
 
 # Results
 
-1- Supervised machine learning algorithm by using K-Nearest Neighbors (KNN)
-
-Result
 ### KNN:
 ![KNN](https://github.com/user-attachments/assets/e3e2bf4b-0cf9-42ab-b89c-7f28389cff21)
 
 
-2- RandomizedSearch
-
-Result
 ### Randomized Search:
 ![Randomized Search](https://github.com/user-attachments/assets/488a34f6-638d-4fcd-a756-5a35c03ea61e)
 
-3- Random Forest
 
-Result
 ### Random Forest:
 ![Random Forest](https://github.com/user-attachments/assets/285dde50-989e-4187-b7a5-8ba5788ef7d8)
 
-4- TensorFlow Keras
 
-Result
 ### TensorFlow Keras:
 ![TensorFlow Keras](https://github.com/user-attachments/assets/551ab6ac-99be-4841-8c69-ad27c77006bf)
 
-Epoch 17 Achieved best Results
 
-
-4- XG Boost
-
-Result
 ### XG Boost:
 ![XG Boost](https://github.com/user-attachments/assets/8085e806-5f66-462d-bf11-e60c2f2993dc)
 
+
+### Linear Discriminant Analysis:
+![Linear Discriminant Analysis](https://github.com/user-attachments/assets/0918ce6b-a4bb-466a-b774-f2873c62c02a)
 
 ![.](https://github.com/user-attachments/assets/f0f81200-f542-475b-b697-e1bc1a64cdc1)
 
